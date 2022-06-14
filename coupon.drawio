@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T23:52:18.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="7c6mkdbiLD70JQShI9wd" version="18.0.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-14T00:41:07.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="wlburFqtZKlJ1CK86Ef5" version="18.0.2" type="github" pages="8">
   <diagram id="8Ai8LcPD3dRADdZJNtyQ" name="Home screen">
-    <mxGraphModel dx="2627" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1970" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4YE4zVeLuSNUIO8vOBRp" name="Coupons">
-    <mxGraphModel dx="2355" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2364" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -347,7 +347,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Sign Up" id="hR6GGFt9xSBXOA4BEl-d">
-    <mxGraphModel dx="2149" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="oH879QrObA57grZo2su5-0" />
         <mxCell id="oH879QrObA57grZo2su5-1" parent="oH879QrObA57grZo2su5-0" />
@@ -396,8 +396,8 @@
         <mxCell id="xbjSWDxpHuszi0_C7IXA-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;First Name:&lt;br&gt;&lt;br&gt;Last Name:&lt;br&gt;&lt;br&gt;Email:&lt;br&gt;&lt;br&gt;Phone&lt;br&gt;Number:&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Tahoma;fontSize=16;fontColor=#000000;" vertex="1" parent="oH879QrObA57grZo2su5-2">
           <mxGeometry x="392" y="320" width="130" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="M5-OGkaykQlrmjbrqirU-0" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Default text&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=left;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Tahoma;fontColor=none;fillColor=#CCCCCC;gradientColor=none;gradientDirection=north;" vertex="1" parent="oH879QrObA57grZo2su5-2">
-          <mxGeometry x="523" y="304" width="135" height="21" as="geometry" />
+        <mxCell id="M5-OGkaykQlrmjbrqirU-0" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Type your First Name Here&lt;/span&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#56517e;buttonText=;fontSize=8;whiteSpace=wrap;align=left;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Tahoma;fillColor=#CCCCCC;gradientDirection=north;fontColor=#E6E6E6;" vertex="1" parent="oH879QrObA57grZo2su5-2">
+          <mxGeometry x="523" y="304" width="147" height="21" as="geometry" />
         </mxCell>
         <mxCell id="M5-OGkaykQlrmjbrqirU-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Default text&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=left;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Tahoma;fontColor=none;fillColor=#CCCCCC;gradientColor=none;gradientDirection=north;" vertex="1" parent="oH879QrObA57grZo2su5-2">
           <mxGeometry x="523" y="359" width="135" height="21" as="geometry" />
@@ -838,8 +838,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="LORnpLmz2EFuL_wLSSS5" name="Page-8">
-    <mxGraphModel dx="1884" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="LORnpLmz2EFuL_wLSSS5" name="Coupon Details">
+    <mxGraphModel dx="1576" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
