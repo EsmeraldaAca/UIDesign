@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T23:33:51.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="d0tX8BloegZi3FWMAZ4Z" version="20.0.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-06-15T23:38:40.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="brxop7Offids4X9uBjtf" version="20.0.1" type="github" pages="9">
   <diagram id="8Ai8LcPD3dRADdZJNtyQ" name="Home screen">
     <mxGraphModel dx="1834" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1068,12 +1068,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="i2TGYENhYIb27gzOpikY" name="Cart">
-    <mxGraphModel dx="1987" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1890" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yKVBPvu8FQ5biz9CbNY--1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="86" width="1055" height="1484" as="geometry" />
+          <mxGeometry x="32" y="86" width="1045" height="1484" as="geometry" />
         </mxCell>
         <mxCell id="yKVBPvu8FQ5biz9CbNY--2" value="" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#cce5ff;align=center;strokeColor=#36393d;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Tahoma;" vertex="1" parent="yKVBPvu8FQ5biz9CbNY--1">
           <mxGeometry x="602" y="675" width="265" height="230" as="geometry" />
@@ -1229,7 +1229,10 @@
           <mxGeometry x="609.5" y="797" width="250" height="104" as="geometry" />
         </mxCell>
         <mxCell id="kSsr-yxgFdV4Q7-tc7eN-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Proceed to Checkout&lt;/b&gt;&lt;/span&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#7EA6E0;align=center;strokeColor=#001DBC;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Tahoma;fontColor=#ffffff;" vertex="1" parent="yKVBPvu8FQ5biz9CbNY--1">
-          <mxGeometry x="896" y="491" width="149.03" height="63.72" as="geometry" />
+          <mxGeometry x="889" y="491" width="149.03" height="63.72" as="geometry" />
+        </mxCell>
+        <mxCell id="4EiSYAPKpmp-9Yh_EvAj-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/heroicons-solid/20/scissors-128.png;fontColor=#999999;fillColor=#7EA6E0;gradientColor=#ffffff;opacity=80;rotation=-90;" vertex="1" parent="yKVBPvu8FQ5biz9CbNY--1">
+          <mxGeometry x="75" y="572.25" width="31.5" height="31.5" as="geometry" />
         </mxCell>
         <UserObject label="Sign In" id="ZAGKdMooA-ygZfE_BDlp-1">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Tahoma;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
