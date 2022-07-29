@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T23:58:53.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.2" etag="aiZeReEp6DjU2uaMnDWN" type="github"><diagram id="6k_M6GZP-Qp57-CbrFIS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-29T00:03:46.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="y2oBtlou-t7gjWOpeTyi" version="20.2.2" type="github">
+  <diagram id="6k_M6GZP-Qp57-CbrFIS" name="Landing page">
+    <mxGraphModel dx="1736" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JPZ8PJUiMLHANGsE_QnL-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="345" y="40" width="410" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="JPZ8PJUiMLHANGsE_QnL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=none;" vertex="1" parent="JPZ8PJUiMLHANGsE_QnL-3">
+          <mxGeometry x="5" y="60" width="400" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="JPZ8PJUiMLHANGsE_QnL-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;labelBackgroundColor=#FFFFFF;" vertex="1" parent="JPZ8PJUiMLHANGsE_QnL-3">
+          <mxGeometry width="410" height="760" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
